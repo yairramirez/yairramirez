@@ -16,6 +16,7 @@ Passionate about **creating functional solutions, optimizing processes**, and le
 ![Angular](https://img.shields.io/badge/Angular-2-red?style=for-the-badge&logo=angular)
 ![Vue.js](https://img.shields.io/badge/Vue.js-2-green?style=for-the-badge&logo=vue.js)
 ![React Native](https://img.shields.io/badge/React%20Native-3-blue?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/Flutter-3-blue?style=for-the-badge&logo=flutter)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3)
 
