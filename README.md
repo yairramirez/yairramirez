@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Yair Sacre Ramirez Corona
 **Full-stack Developer | React.js, Node.js & Spring Boot | 6+ Years of Experience**
 
-![Profile Banner](https://user-images.githubusercontent.com/yairramirez/banner-placeholder.png)  
-
 ---
 
 ## 🌟 About Me
